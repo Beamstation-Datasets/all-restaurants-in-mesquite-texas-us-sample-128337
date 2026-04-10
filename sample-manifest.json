@@ -1,0 +1,12 @@
+{
+  "export_job_id": "9341fed9-2c2d-4403-9d37-709f4a0240b7",
+  "id_short": 128337,
+  "published_at": "2026-04-10T19:10:11Z",
+  "repo_name": "all-restaurants-in-mesquite-texas-us-sample-128337",
+  "sample_asset_name": "beamstation_128337_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/128337/beamstation_128337_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "60c9d7c285bd038ad4111bd65bddf346780e3d79213e7d2000aa2b1019d44670",
+  "sample_size_bytes": 114213,
+  "total_records": 295
+}
